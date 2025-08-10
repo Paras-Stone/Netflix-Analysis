@@ -39,4 +39,4 @@ You can download the `.twbx` file and open it in **[Tableau Public](https://publ
 ---
 
 ## 👨‍💻 Author
-Created by **[Your Name]**
+Created by Paras Saini
